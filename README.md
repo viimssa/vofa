@@ -1,11 +1,14 @@
 #安装 vofa+ 
+
     ```bash
     sudo dpkg -i vofa+_1.3.10_amd64.deb   			     
     ```
     
 #检查vofa+运行状况
+
     ```bash
-    cd /opt/vofa+ 					     
+    cd /opt/vofa+ 	
+    
     ./vofa+						          
      ```
      
