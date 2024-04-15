@@ -2,11 +2,13 @@
     ```bash
     sudo dpkg -i vofa+_1.3.10_amd64.deb   			     
     ```
+    
 #检查vofa+运行状况
     ```bash
     cd /opt/vofa+ 					     
     ./vofa+						          
      ```
+     
 #报错：./vofa+: error while loading shared libraries: libcrypto.so.1.1: cannot open shared object file: No such file or directory 
 ![01](https://github.com/viimssa/vofa/assets/164175884/d0004361-f77c-477b-a587-9e9b9267482b)
 
